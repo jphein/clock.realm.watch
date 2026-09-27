@@ -128,3 +128,7 @@ clock.realm.watch/
 
 - [realm-sigil](https://github.com/jphein/realm-sigil) — the versioning library this project uses
 - [Claude Code hooks reference](https://docs.claude.com/en/docs/claude-code/hooks) — the mechanism that makes this work
+
+## License
+
+AGPL-3.0-or-later © 2026 Jeffrey Pine Hein. See [LICENSE](LICENSE).
